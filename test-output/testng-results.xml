@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10375" started-at="2019-02-07T06:27:44Z" finished-at="2019-02-07T06:27:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10375" started-at="2019-02-07T06:27:44Z" finished-at="2019-02-07T06:27:55Z">
+      <class name="mypackage.myclass">
+        <test-method status="PASS" signature="printChildWindowTitles()[pri:0, instance:mypackage.myclass@10d6c15]" name="printChildWindowTitles" duration-ms="10374" started-at="2019-02-07T11:57:44Z" finished-at="2019-02-07T11:57:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printChildWindowTitles -->
+      </class> <!-- mypackage.myclass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
